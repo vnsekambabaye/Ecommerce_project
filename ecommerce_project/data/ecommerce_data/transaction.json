@@ -1,0 +1,1156 @@
+[
+    {
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c0"
+  },
+  "transaction_id": "txn_6b1f2c735d0c",
+  "session_id": "sess_bee82db453",
+  "user_id": "user_007129",
+  "timestamp": "2025-04-30T09:18:30",
+  "items": [
+    {
+      "product_id": "prod_01609",
+      "quantity": 2,
+      "unit_price": 319.01,
+      "subtotal": 638.02
+    },
+    {
+      "product_id": "prod_04265",
+      "quantity": 2,
+      "unit_price": 243.6,
+      "subtotal": 487.2
+    }
+  ],
+  "subtotal": 1125.22,
+  "discount": 168.78,
+  "total": 956.44,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c1"
+  },
+  "transaction_id": "txn_d48ac3c9e076",
+  "session_id": null,
+  "user_id": "user_005137",
+  "timestamp": "2025-03-10T06:01:42",
+  "items": [
+    {
+      "product_id": "prod_01996",
+      "quantity": 2,
+      "unit_price": 202.56,
+      "subtotal": 405.12
+    },
+    {
+      "product_id": "prod_02003",
+      "quantity": 2,
+      "unit_price": 456.72,
+      "subtotal": 913.44
+    }
+  ],
+  "subtotal": 1318.56,
+  "discount": 197.78,
+  "total": 1120.78,
+  "payment_method": "paypal",
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c2"
+  },
+  "transaction_id": "txn_c03a116c1cd4",
+  "session_id": null,
+  "user_id": "user_004100",
+  "timestamp": "2025-06-05T02:04:27",
+  "items": [
+    {
+      "product_id": "prod_03180",
+      "quantity": 3,
+      "unit_price": 125.4,
+      "subtotal": 376.2
+    },
+    {
+      "product_id": "prod_03089",
+      "quantity": 3,
+      "unit_price": 364.36,
+      "subtotal": 1093.08
+    }
+  ],
+  "subtotal": 1469.28,
+  "discount": 0,
+  "total": 1469.28,
+  "payment_method": "gift_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c3"
+  },
+  "transaction_id": "txn_f94a8216b017",
+  "session_id": null,
+  "user_id": "user_002378",
+  "timestamp": "2025-05-14T22:57:04",
+  "items": [
+    {
+      "product_id": "prod_04743",
+      "quantity": 3,
+      "unit_price": 154.23,
+      "subtotal": 462.69
+    },
+    {
+      "product_id": "prod_00771",
+      "quantity": 2,
+      "unit_price": 66.92,
+      "subtotal": 133.84
+    }
+  ],
+  "subtotal": 596.53,
+  "discount": 59.65,
+  "total": 536.88,
+  "payment_method": "bank_transfer",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c4"
+  },
+  "transaction_id": "txn_14958ae45ba2",
+  "session_id": null,
+  "user_id": "user_006383",
+  "timestamp": "2025-06-01T21:40:58",
+  "items": [
+    {
+      "product_id": "prod_01782",
+      "quantity": 1,
+      "unit_price": 533.29,
+      "subtotal": 533.29
+    },
+    {
+      "product_id": "prod_00431",
+      "quantity": 1,
+      "unit_price": 208.27,
+      "subtotal": 208.27
+    },
+    {
+      "product_id": "prod_04940",
+      "quantity": 2,
+      "unit_price": 557.87,
+      "subtotal": 1115.74
+    }
+  ],
+  "subtotal": 1857.3,
+  "discount": 0,
+  "total": 1857.3,
+  "payment_method": "bank_transfer",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c5"
+  },
+  "transaction_id": "txn_092801ee5127",
+  "session_id": "sess_b41e96b53b",
+  "user_id": "user_000914",
+  "timestamp": "2025-04-29T10:24:49",
+  "items": [
+    {
+      "product_id": "prod_02188",
+      "quantity": 3,
+      "unit_price": 335.7,
+      "subtotal": 1007.1
+    }
+  ],
+  "subtotal": 1007.1,
+  "discount": 0,
+  "total": 1007.1,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c6"
+  },
+  "transaction_id": "txn_b9ef97d4e8a3",
+  "session_id": "sess_5bd83c88a1",
+  "user_id": "user_007787",
+  "timestamp": "2025-04-16T14:12:13",
+  "items": [
+    {
+      "product_id": "prod_02905",
+      "quantity": 3,
+      "unit_price": 97,
+      "subtotal": 291
+    }
+  ],
+  "subtotal": 291,
+  "discount": 14.55,
+  "total": 276.45,
+  "payment_method": "credit_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c7"
+  },
+  "transaction_id": "txn_2f953a422ab3",
+  "session_id": null,
+  "user_id": "user_007938",
+  "timestamp": "2025-03-10T03:26:09",
+  "items": [
+    {
+      "product_id": "prod_02519",
+      "quantity": 1,
+      "unit_price": 20.02,
+      "subtotal": 20.02
+    },
+    {
+      "product_id": "prod_03695",
+      "quantity": 3,
+      "unit_price": 360.97,
+      "subtotal": 1082.91
+    },
+    {
+      "product_id": "prod_01995",
+      "quantity": 3,
+      "unit_price": 215.18,
+      "subtotal": 645.54
+    }
+  ],
+  "subtotal": 1748.47,
+  "discount": 0,
+  "total": 1748.47,
+  "payment_method": "bank_transfer",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6c8"
+  },
+  "transaction_id": "txn_6b9b4838290c",
+  "session_id": null,
+  "user_id": "user_005034",
+  "timestamp": "2025-05-13T18:17:06",
+  "items": [
+    {
+      "product_id": "prod_02431",
+      "quantity": 2,
+      "unit_price": 205.8,
+      "subtotal": 411.6
+    },
+    {
+      "product_id": "prod_00084",
+      "quantity": 3,
+      "unit_price": 312.56,
+      "subtotal": 937.68
+    },
+    {
+      "product_id": "prod_03684",
+      "quantity": 1,
+      "unit_price": 283.03,
+      "subtotal": 283.03
+    }
+  ],
+  "subtotal": 1632.31,
+  "discount": 0,
+  "total": 1632.31,
+  "payment_method": "credit_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6ca"
+  },
+  "transaction_id": "txn_d297c7ff1fca",
+  "session_id": null,
+  "user_id": "user_001999",
+  "timestamp": "2025-04-07T20:03:31",
+  "items": [
+    {
+      "product_id": "prod_02126",
+      "quantity": 3,
+      "unit_price": 29.82,
+      "subtotal": 89.46
+    },
+    {
+      "product_id": "prod_03765",
+      "quantity": 1,
+      "unit_price": 67.49,
+      "subtotal": 67.49
+    },
+    {
+      "product_id": "prod_04615",
+      "quantity": 2,
+      "unit_price": 19.22,
+      "subtotal": 38.44
+    }
+  ],
+  "subtotal": 195.39,
+  "discount": 0,
+  "total": 195.39,
+  "payment_method": "gift_card",
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6cb"
+  },
+  "transaction_id": "txn_569bb38d293e",
+  "session_id": null,
+  "user_id": "user_004600",
+  "timestamp": "2025-05-13T14:25:25",
+  "items": [
+    {
+      "product_id": "prod_04435",
+      "quantity": 3,
+      "unit_price": 252.2,
+      "subtotal": 756.6
+    },
+    {
+      "product_id": "prod_01761",
+      "quantity": 3,
+      "unit_price": 156.06,
+      "subtotal": 468.18
+    },
+    {
+      "product_id": "prod_02501",
+      "quantity": 1,
+      "unit_price": 325.46,
+      "subtotal": 325.46
+    }
+  ],
+  "subtotal": 1550.24,
+  "discount": 0,
+  "total": 1550.24,
+  "payment_method": "gift_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6cc"
+  },
+  "transaction_id": "txn_245207fd0bcf",
+  "session_id": null,
+  "user_id": "user_005451",
+  "timestamp": "2025-04-24T05:48:24",
+  "items": [
+    {
+      "product_id": "prod_01689",
+      "quantity": 3,
+      "unit_price": 410.62,
+      "subtotal": 1231.86
+    },
+    {
+      "product_id": "prod_03236",
+      "quantity": 3,
+      "unit_price": 76.59,
+      "subtotal": 229.77
+    }
+  ],
+  "subtotal": 1461.6299999999999,
+  "discount": 146.16,
+  "total": 1315.47,
+  "payment_method": "bank_transfer",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6cd"
+  },
+  "transaction_id": "txn_a50d5227482b",
+  "session_id": "sess_1baf3ed149",
+  "user_id": "user_007281",
+  "timestamp": "2025-05-10T09:38:07",
+  "items": [
+    {
+      "product_id": "prod_03239",
+      "quantity": 3,
+      "unit_price": 377.61,
+      "subtotal": 1132.83
+    }
+  ],
+  "subtotal": 1132.83,
+  "discount": 0,
+  "total": 1132.83,
+  "payment_method": "apple_pay",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6ce"
+  },
+  "transaction_id": "txn_fd13b7851b2b",
+  "session_id": null,
+  "user_id": "user_009381",
+  "timestamp": "2025-04-18T13:18:02",
+  "items": [
+    {
+      "product_id": "prod_02271",
+      "quantity": 2,
+      "unit_price": 370.96,
+      "subtotal": 741.92
+    },
+    {
+      "product_id": "prod_00786",
+      "quantity": 3,
+      "unit_price": 86.97,
+      "subtotal": 260.91
+    }
+  ],
+  "subtotal": 1002.8299999999999,
+  "discount": 0,
+  "total": 1002.83,
+  "payment_method": "bank_transfer",
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6cf"
+  },
+  "transaction_id": "txn_8cb33086688d",
+  "session_id": null,
+  "user_id": "user_008698",
+  "timestamp": "2025-06-01T23:27:25",
+  "items": [
+    {
+      "product_id": "prod_02150",
+      "quantity": 2,
+      "unit_price": 58.67,
+      "subtotal": 117.34
+    },
+    {
+      "product_id": "prod_00963",
+      "quantity": 1,
+      "unit_price": 330.18,
+      "subtotal": 330.18
+    },
+    {
+      "product_id": "prod_01584",
+      "quantity": 1,
+      "unit_price": 271.09,
+      "subtotal": 271.09
+    }
+  ],
+  "subtotal": 718.6099999999999,
+  "discount": 0,
+  "total": 718.61,
+  "payment_method": "bank_transfer",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d0"
+  },
+  "transaction_id": "txn_b1deed4e44e1",
+  "session_id": null,
+  "user_id": "user_007669",
+  "timestamp": "2025-03-09T19:43:18",
+  "items": [
+    {
+      "product_id": "prod_02538",
+      "quantity": 3,
+      "unit_price": 308.44,
+      "subtotal": 925.32
+    },
+    {
+      "product_id": "prod_04034",
+      "quantity": 2,
+      "unit_price": 470.4,
+      "subtotal": 940.8
+    }
+  ],
+  "subtotal": 1866.12,
+  "discount": 0,
+  "total": 1866.12,
+  "payment_method": "paypal",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d1"
+  },
+  "transaction_id": "txn_3d5cd900fc67",
+  "session_id": null,
+  "user_id": "user_002068",
+  "timestamp": "2025-04-24T18:09:41",
+  "items": [
+    {
+      "product_id": "prod_01052",
+      "quantity": 1,
+      "unit_price": 106.31,
+      "subtotal": 106.31
+    },
+    {
+      "product_id": "prod_01606",
+      "quantity": 2,
+      "unit_price": 174.65,
+      "subtotal": 349.3
+    },
+    {
+      "product_id": "prod_01361",
+      "quantity": 3,
+      "unit_price": 245.03,
+      "subtotal": 735.09
+    }
+  ],
+  "subtotal": 1190.7,
+  "discount": 0,
+  "total": 1190.7,
+  "payment_method": "bank_transfer",
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d2"
+  },
+  "transaction_id": "txn_af9bc1848d9f",
+  "session_id": "sess_b1ce1d8010",
+  "user_id": "user_005194",
+  "timestamp": "2025-04-10T02:31:22",
+  "items": [
+    {
+      "product_id": "prod_04858",
+      "quantity": 3,
+      "unit_price": 223.76,
+      "subtotal": 671.28
+    }
+  ],
+  "subtotal": 671.28,
+  "discount": 0,
+  "total": 671.28,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d3"
+  },
+  "transaction_id": "txn_d002c4fb5ebd",
+  "session_id": null,
+  "user_id": "user_001220",
+  "timestamp": "2025-03-18T16:10:21",
+  "items": [
+    {
+      "product_id": "prod_02138",
+      "quantity": 1,
+      "unit_price": 484.38,
+      "subtotal": 484.38
+    },
+    {
+      "product_id": "prod_04278",
+      "quantity": 1,
+      "unit_price": 168.52,
+      "subtotal": 168.52
+    },
+    {
+      "product_id": "prod_01997",
+      "quantity": 2,
+      "unit_price": 300.53,
+      "subtotal": 601.06
+    }
+  ],
+  "subtotal": 1253.96,
+  "discount": 0,
+  "total": 1253.96,
+  "payment_method": "credit_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d4"
+  },
+  "transaction_id": "txn_ad073408017f",
+  "session_id": "sess_9916702f62",
+  "user_id": "user_001823",
+  "timestamp": "2025-05-09T11:37:50",
+  "items": [
+    {
+      "product_id": "prod_03955",
+      "quantity": 3,
+      "unit_price": 328.13,
+      "subtotal": 984.39
+    },
+    {
+      "product_id": "prod_03090",
+      "quantity": 3,
+      "unit_price": 319.08,
+      "subtotal": 957.24
+    }
+  ],
+  "subtotal": 1941.63,
+  "discount": 0,
+  "total": 1941.63,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d6"
+  },
+  "transaction_id": "txn_24a6d9afcbb9",
+  "session_id": "sess_b59dcffdca",
+  "user_id": "user_009788",
+  "timestamp": "2025-03-23T17:49:07",
+  "items": [
+    {
+      "product_id": "prod_03328",
+      "quantity": 1,
+      "unit_price": 275.87,
+      "subtotal": 275.87
+    },
+    {
+      "product_id": "prod_00699",
+      "quantity": 2,
+      "unit_price": 32.08,
+      "subtotal": 64.16
+    }
+  ],
+  "subtotal": 340.03,
+  "discount": 0,
+  "total": 340.03,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d7"
+  },
+  "transaction_id": "txn_1bac7e2ec2c6",
+  "session_id": null,
+  "user_id": "user_002344",
+  "timestamp": "2025-04-12T08:42:40",
+  "items": [
+    {
+      "product_id": "prod_01766",
+      "quantity": 2,
+      "unit_price": 353.6,
+      "subtotal": 707.2
+    },
+    {
+      "product_id": "prod_04828",
+      "quantity": 2,
+      "unit_price": 31.94,
+      "subtotal": 63.88
+    },
+    {
+      "product_id": "prod_01882",
+      "quantity": 2,
+      "unit_price": 253.53,
+      "subtotal": 507.06
+    }
+  ],
+  "subtotal": 1278.14,
+  "discount": 255.63,
+  "total": 1022.51,
+  "payment_method": "credit_card",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d8"
+  },
+  "transaction_id": "txn_b0ba2b4dd019",
+  "session_id": "sess_e6bb461516",
+  "user_id": "user_009273",
+  "timestamp": "2025-05-08T05:10:45",
+  "items": [
+    {
+      "product_id": "prod_00397",
+      "quantity": 2,
+      "unit_price": 41.66,
+      "subtotal": 83.32
+    }
+  ],
+  "subtotal": 83.32,
+  "discount": 0,
+  "total": 83.32,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6d9"
+  },
+  "transaction_id": "txn_216d4d07e707",
+  "session_id": "sess_e42f23a1ce",
+  "user_id": "user_003541",
+  "timestamp": "2025-05-02T00:36:03",
+  "items": [
+    {
+      "product_id": "prod_00057",
+      "quantity": 1,
+      "unit_price": 301.02,
+      "subtotal": 301.02
+    }
+  ],
+  "subtotal": 301.02,
+  "discount": 0,
+  "total": 301.02,
+  "payment_method": "apple_pay",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6da"
+  },
+  "transaction_id": "txn_fd3817d7ef9d",
+  "session_id": null,
+  "user_id": "user_003716",
+  "timestamp": "2025-05-27T01:01:15",
+  "items": [
+    {
+      "product_id": "prod_01223",
+      "quantity": 1,
+      "unit_price": 292.12,
+      "subtotal": 292.12
+    },
+    {
+      "product_id": "prod_04629",
+      "quantity": 2,
+      "unit_price": 239.41,
+      "subtotal": 478.82
+    },
+    {
+      "product_id": "prod_03686",
+      "quantity": 3,
+      "unit_price": 152.08,
+      "subtotal": 456.24
+    }
+  ],
+  "subtotal": 1227.18,
+  "discount": 0,
+  "total": 1227.18,
+  "payment_method": "paypal",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6db"
+  },
+  "transaction_id": "txn_459b55b6e2cb",
+  "session_id": "sess_28560cc161",
+  "user_id": "user_009592",
+  "timestamp": "2025-03-19T20:44:57",
+  "items": [
+    {
+      "product_id": "prod_03634",
+      "quantity": 3,
+      "unit_price": 57.2,
+      "subtotal": 171.6
+    }
+  ],
+  "subtotal": 171.6,
+  "discount": 0,
+  "total": 171.6,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6dc"
+  },
+  "transaction_id": "txn_7c2b4c430366",
+  "session_id": "sess_573c5a8b4b",
+  "user_id": "user_003808",
+  "timestamp": "2025-03-27T10:42:14",
+  "items": [
+    {
+      "product_id": "prod_02076",
+      "quantity": 3,
+      "unit_price": 26.99,
+      "subtotal": 80.97
+    }
+  ],
+  "subtotal": 80.97,
+  "discount": 0,
+  "total": 80.97,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6dd"
+  },
+  "transaction_id": "txn_c2e544b818f1",
+  "session_id": "sess_5f1a3c4071",
+  "user_id": "user_002557",
+  "timestamp": "2025-04-06T06:58:17",
+  "items": [
+    {
+      "product_id": "prod_04225",
+      "quantity": 3,
+      "unit_price": 460.99,
+      "subtotal": 1382.97
+    }
+  ],
+  "subtotal": 1382.97,
+  "discount": 0,
+  "total": 1382.97,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6de"
+  },
+  "transaction_id": "txn_9534df16aeac",
+  "session_id": null,
+  "user_id": "user_008010",
+  "timestamp": "2025-04-14T04:41:38",
+  "items": [
+    {
+      "product_id": "prod_03248",
+      "quantity": 3,
+      "unit_price": 319.7,
+      "subtotal": 959.1
+    },
+    {
+      "product_id": "prod_01977",
+      "quantity": 1,
+      "unit_price": 187.24,
+      "subtotal": 187.24
+    },
+    {
+      "product_id": "prod_00717",
+      "quantity": 1,
+      "unit_price": 246.25,
+      "subtotal": 246.25
+    }
+  ],
+  "subtotal": 1392.5900000000001,
+  "discount": 278.52,
+  "total": 1114.07,
+  "payment_method": "bank_transfer",
+  "status": "shipped"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6df"
+  },
+  "transaction_id": "txn_8d9018cc1b37",
+  "session_id": "sess_90e138e4d8",
+  "user_id": "user_003635",
+  "timestamp": "2025-03-13T02:09:52",
+  "items": [
+    {
+      "product_id": "prod_00193",
+      "quantity": 1,
+      "unit_price": 259.05,
+      "subtotal": 259.05
+    },
+    {
+      "product_id": "prod_02406",
+      "quantity": 2,
+      "unit_price": 473.14,
+      "subtotal": 946.28
+    }
+  ],
+  "subtotal": 1205.33,
+  "discount": 0,
+  "total": 1205.33,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e0"
+  },
+  "transaction_id": "txn_53cbf5e4f844",
+  "session_id": "sess_53194bcb07",
+  "user_id": "user_001281",
+  "timestamp": "2025-04-20T02:03:33",
+  "items": [
+    {
+      "product_id": "prod_01026",
+      "quantity": 3,
+      "unit_price": 393.55,
+      "subtotal": 1180.65
+    }
+  ],
+  "subtotal": 1180.65,
+  "discount": 0,
+  "total": 1180.65,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e1"
+  },
+  "transaction_id": "txn_cfa34ab13ab7",
+  "session_id": "sess_f40d30f506",
+  "user_id": "user_009708",
+  "timestamp": "2025-05-04T02:34:46",
+  "items": [
+    {
+      "product_id": "prod_00439",
+      "quantity": 3,
+      "unit_price": 344.23,
+      "subtotal": 1032.69
+    },
+    {
+      "product_id": "prod_03401",
+      "quantity": 3,
+      "unit_price": 202.08,
+      "subtotal": 606.24
+    }
+  ],
+  "subtotal": 1638.93,
+  "discount": 0,
+  "total": 1638.93,
+  "payment_method": "credit_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e2"
+  },
+  "transaction_id": "txn_e5bd69c7af24",
+  "session_id": null,
+  "user_id": "user_009110",
+  "timestamp": "2025-03-28T09:31:32",
+  "items": [
+    {
+      "product_id": "prod_04194",
+      "quantity": 3,
+      "unit_price": 278.13,
+      "subtotal": 834.39
+    },
+    {
+      "product_id": "prod_01146",
+      "quantity": 2,
+      "unit_price": 286.55,
+      "subtotal": 573.1
+    },
+    {
+      "product_id": "prod_01582",
+      "quantity": 3,
+      "unit_price": 70.55,
+      "subtotal": 211.65
+    }
+  ],
+  "subtotal": 1619.14,
+  "discount": 0,
+  "total": 1619.14,
+  "payment_method": "credit_card",
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e3"
+  },
+  "transaction_id": "txn_a0ea9fbba1f2",
+  "session_id": null,
+  "user_id": "user_003495",
+  "timestamp": "2025-04-03T09:12:41",
+  "items": [
+    {
+      "product_id": "prod_00668",
+      "quantity": 2,
+      "unit_price": 87.67,
+      "subtotal": 175.34
+    },
+    {
+      "product_id": "prod_04311",
+      "quantity": 1,
+      "unit_price": 443.25,
+      "subtotal": 443.25
+    },
+    {
+      "product_id": "prod_03257",
+      "quantity": 2,
+      "unit_price": 247.94,
+      "subtotal": 495.88
+    }
+  ],
+  "subtotal": 1114.47,
+  "discount": 0,
+  "total": 1114.47,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e4"
+  },
+  "transaction_id": "txn_4d234f99f720",
+  "session_id": "sess_154a40486c",
+  "user_id": "user_008810",
+  "timestamp": "2025-05-29T13:33:18",
+  "items": [
+    {
+      "product_id": "prod_03701",
+      "quantity": 1,
+      "unit_price": 249.3,
+      "subtotal": 249.3
+    }
+  ],
+  "subtotal": 249.3,
+  "discount": 0,
+  "total": 249.3,
+  "payment_method": "apple_pay",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e5"
+  },
+  "transaction_id": "txn_0754cb5e03dd",
+  "session_id": "sess_6f36ce7e4f",
+  "user_id": "user_000501",
+  "timestamp": "2025-06-03T14:38:52",
+  "items": [
+    {
+      "product_id": "prod_03405",
+      "quantity": 3,
+      "unit_price": 393.1,
+      "subtotal": 1179.3
+    }
+  ],
+  "subtotal": 1179.3,
+  "discount": 0,
+  "total": 1179.3,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e6"
+  },
+  "transaction_id": "txn_6d80f8cc0ba5",
+  "session_id": null,
+  "user_id": "user_009338",
+  "timestamp": "2025-03-25T22:29:11",
+  "items": [
+    {
+      "product_id": "prod_02921",
+      "quantity": 2,
+      "unit_price": 187.59,
+      "subtotal": 375.18
+    },
+    {
+      "product_id": "prod_04346",
+      "quantity": 1,
+      "unit_price": 260.24,
+      "subtotal": 260.24
+    },
+    {
+      "product_id": "prod_04673",
+      "quantity": 1,
+      "unit_price": 574.81,
+      "subtotal": 574.81
+    }
+  ],
+  "subtotal": 1210.23,
+  "discount": 0,
+  "total": 1210.23,
+  "payment_method": "paypal",
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e7"
+  },
+  "transaction_id": "txn_3c675f149dcd",
+  "session_id": "sess_65fbcfa015",
+  "user_id": "user_007380",
+  "timestamp": "2025-03-11T00:35:47",
+  "items": [
+    {
+      "product_id": "prod_02314",
+      "quantity": 1,
+      "unit_price": 225.43,
+      "subtotal": 225.43
+    }
+  ],
+  "subtotal": 225.43,
+  "discount": 0,
+  "total": 225.43,
+  "payment_method": "paypal",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e8"
+  },
+  "transaction_id": "txn_330649e99931",
+  "session_id": "sess_52eee7a7e9",
+  "user_id": "user_006432",
+  "timestamp": "2025-06-04T00:26:26",
+  "items": [
+    {
+      "product_id": "prod_01048",
+      "quantity": 2,
+      "unit_price": 326.24,
+      "subtotal": 652.48
+    }
+  ],
+  "subtotal": 652.48,
+  "discount": 0,
+  "total": 652.48,
+  "payment_method": "crypto",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6e9"
+  },
+  "transaction_id": "txn_82490bc96d11",
+  "session_id": null,
+  "user_id": "user_002623",
+  "timestamp": "2025-04-09T04:00:30",
+  "items": [
+    {
+      "product_id": "prod_00882",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "subtotal": 15.95
+    },
+    {
+      "product_id": "prod_04513",
+      "quantity": 3,
+      "unit_price": 462.04,
+      "subtotal": 1386.12
+    },
+    {
+      "product_id": "prod_04617",
+      "quantity": 3,
+      "unit_price": 91,
+      "subtotal": 273
+    }
+  ],
+  "subtotal": 1675.07,
+  "discount": 167.51,
+  "total": 1507.56,
+  "payment_method": "gift_card",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6842fa0d043cdfdfaa6fe6ea"
+  },
+  "transaction_id": "txn_cc60325dcc6c",
+  "session_id": "sess_a1da9552ad",
+  "user_id": "user_007590",
+  "timestamp": "2025-06-01T21:55:47",
+  "items": [
+    {
+      "product_id": "prod_01585",
+      "quantity": 3,
+      "unit_price": 301.11,
+      "subtotal": 903.33
+    },
+    {
+      "product_id": "prod_03345",
+      "quantity": 3,
+      "unit_price": 153.45,
+      "subtotal": 460.35
+    }
+  ],
+  "subtotal": 1363.68,
+  "discount": 0,
+  "total": 1363.68,
+  "payment_method": "apple_pay",
+  "status": "completed"
+}
+]

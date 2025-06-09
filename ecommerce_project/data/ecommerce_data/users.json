@@ -1,0 +1,158 @@
+[
+    {
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac8c"
+  },
+  "user_id": "user_000125",
+  "geo_data": {
+    "city": "South Catherine",
+    "state": "WY",
+    "country": "CL"
+  },
+  "registration_date": "2024-12-17T23:12:41",
+  "last_active": "2025-05-15T09:59:55"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac8d"
+  },
+  "user_id": "user_000126",
+  "geo_data": {
+    "city": "Port Melissa",
+    "state": "MS",
+    "country": "AZ"
+  },
+  "registration_date": "2024-12-16T20:15:17",
+  "last_active": "2025-01-05T00:05:29"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac8e"
+  },
+  "user_id": "user_000127",
+  "geo_data": {
+    "city": "Martinezfurt",
+    "state": "CT",
+    "country": "MH"
+  },
+  "registration_date": "2024-09-12T09:39:59",
+  "last_active": "2025-05-20T19:41:43"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac8f"
+  },
+  "user_id": "user_000128",
+  "geo_data": {
+    "city": "New Erica",
+    "state": "SC",
+    "country": "EG"
+  },
+  "registration_date": "2025-02-20T19:09:48",
+  "last_active": "2025-03-10T04:55:07"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac90"
+  },
+  "user_id": "user_000129",
+  "geo_data": {
+    "city": "Wadechester",
+    "state": "VT",
+    "country": "IN"
+  },
+  "registration_date": "2025-02-23T11:02:57",
+  "last_active": "2025-04-14T14:40:39"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac91"
+  },
+  "user_id": "user_000130",
+  "geo_data": {
+    "city": "Mendozamouth",
+    "state": "NV",
+    "country": "GB"
+  },
+  "registration_date": "2025-02-07T23:42:58",
+  "last_active": "2025-03-30T23:46:47"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac92"
+  },
+  "user_id": "user_000131",
+  "geo_data": {
+    "city": "East Tina",
+    "state": "IL",
+    "country": "FM"
+  },
+  "registration_date": "2024-10-05T02:17:43",
+  "last_active": "2024-12-03T10:10:48"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac93"
+  },
+  "user_id": "user_000132",
+  "geo_data": {
+    "city": "Lake William",
+    "state": "SC",
+    "country": "CD"
+  },
+  "registration_date": "2024-10-07T03:44:33",
+  "last_active": "2025-05-31T01:23:01"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac94"
+  },
+  "user_id": "user_000133",
+  "geo_data": {
+    "city": "Wendystad",
+    "state": "OH",
+    "country": "SV"
+  },
+  "registration_date": "2024-11-05T08:40:09",
+  "last_active": "2025-01-04T06:41:27"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac95"
+  },
+  "user_id": "user_000134",
+  "geo_data": {
+    "city": "East Jessica",
+    "state": "MI",
+    "country": "NA"
+  },
+  "registration_date": "2025-01-26T22:47:41",
+  "last_active": "2025-02-07T01:10:45"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac96"
+  },
+  "user_id": "user_000135",
+  "geo_data": {
+    "city": "Port Pamela",
+    "state": "MA",
+    "country": "GH"
+  },
+  "registration_date": "2024-11-21T20:45:05",
+  "last_active": "2025-04-15T04:13:37"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fac97"
+  },
+  "user_id": "user_000136",
+  "geo_data": {
+    "city": "South Johnfort",
+    "state": "VI",
+    "country": "HN"
+  },
+  "registration_date": "2025-01-15T01:16:41",
+  "last_active": "2025-01-27T23:58:42"
+}
+]

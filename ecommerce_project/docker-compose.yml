@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+  hbase:
+    image: harisekhon/hbase:latest
+    ports:
+      - "2181:2181"
+      - "16000:16000"
+      - "16010:16010"
+      - "9090:9090"
+    volumes:
+      - hbase_data:/hbase
+volumes:
+  mongodb_data:
+  hbase_data:

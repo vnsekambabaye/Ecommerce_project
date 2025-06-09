@@ -1,0 +1,250 @@
+[
+    {
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd31f"
+  },
+  "product_id": "prod_00000",
+  "name": "Synchronized Bi-Directional Help-Desk",
+  "category_id": "cat_016",
+  "base_price": 371.3,
+  "current_stock": 367,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 459.65,
+      "date": "2024-12-18T20:26:07"
+    },
+    {
+      "price": 427.32,
+      "date": "2025-04-30T07:05:47"
+    },
+    {
+      "price": 371.3,
+      "date": "2025-05-12T09:49:10"
+    }
+  ],
+  "creation_date": "2024-12-18T20:26:07"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd320"
+  },
+  "product_id": "prod_00001",
+  "name": "Open-Source Regional Synergy",
+  "category_id": "cat_009",
+  "base_price": 123.53,
+  "current_stock": 325,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 123.53,
+      "date": "2025-01-04T19:59:24"
+    }
+  ],
+  "creation_date": "2025-01-04T19:59:24"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd321"
+  },
+  "product_id": "prod_00002",
+  "name": "Diverse Context-Sensitive Installation",
+  "category_id": "cat_002",
+  "base_price": 53.39,
+  "current_stock": 218,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 47.4,
+      "date": "2024-12-16T03:44:46"
+    },
+    {
+      "price": 53.39,
+      "date": "2025-01-31T03:01:19"
+    }
+  ],
+  "creation_date": "2024-12-16T03:44:46"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd322"
+  },
+  "product_id": "prod_00003",
+  "name": "User-Centric Full-Range Toolset",
+  "category_id": "cat_004",
+  "base_price": 80.8,
+  "current_stock": 0,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 68.55,
+      "date": "2024-12-09T20:33:24"
+    },
+    {
+      "price": 80.8,
+      "date": "2025-01-13T16:26:16"
+    }
+  ],
+  "creation_date": "2024-12-09T20:33:24"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd323"
+  },
+  "product_id": "prod_00004",
+  "name": "Synchronized User-Facing Workforce",
+  "category_id": "cat_019",
+  "base_price": 214.45,
+  "current_stock": 449,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 214.45,
+      "date": "2024-12-28T15:21:33"
+    }
+  ],
+  "creation_date": "2024-12-28T15:21:33"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd325"
+  },
+  "product_id": "prod_00006",
+  "name": "Phased Directional Customer Loyalty",
+  "category_id": "cat_016",
+  "base_price": 228.49,
+  "current_stock": 0,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 228.49,
+      "date": "2024-12-10T12:47:45"
+    }
+  ],
+  "creation_date": "2024-12-10T12:47:45"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd326"
+  },
+  "product_id": "prod_00007",
+  "name": "Monitored Fault-Tolerant Utilization",
+  "category_id": "cat_000",
+  "base_price": 296.21,
+  "current_stock": 33,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 296.21,
+      "date": "2024-12-30T23:58:14"
+    }
+  ],
+  "creation_date": "2024-12-30T23:58:14"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd327"
+  },
+  "product_id": "prod_00008",
+  "name": "Face-To-Face 4Thgeneration Protocol",
+  "category_id": "cat_002",
+  "base_price": 355.38,
+  "current_stock": 0,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 355.38,
+      "date": "2024-12-19T16:50:47"
+    }
+  ],
+  "creation_date": "2024-12-19T16:50:47"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd328"
+  },
+  "product_id": "prod_00009",
+  "name": "Open-Architected Full-Range Focus Group",
+  "category_id": "cat_001",
+  "base_price": 430.52,
+  "current_stock": 37,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 430.52,
+      "date": "2024-12-18T00:41:28"
+    }
+  ],
+  "creation_date": "2024-12-18T00:41:28"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd329"
+  },
+  "product_id": "prod_00010",
+  "name": "Monitored Secondary Migration",
+  "category_id": "cat_021",
+  "base_price": 288.01,
+  "current_stock": 47,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 245.28,
+      "date": "2024-12-12T00:33:34"
+    },
+    {
+      "price": 209.21,
+      "date": "2025-05-11T04:31:22"
+    },
+    {
+      "price": 288.01,
+      "date": "2025-05-24T17:43:37"
+    }
+  ],
+  "creation_date": "2024-12-12T00:33:34"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd32a"
+  },
+  "product_id": "prod_00011",
+  "name": "Public-Key Full-Range Algorithm",
+  "category_id": "cat_007",
+  "base_price": 344.67,
+  "current_stock": 0,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 393.39,
+      "date": "2024-12-28T01:20:15"
+    },
+    {
+      "price": 344.67,
+      "date": "2025-05-09T00:07:17"
+    }
+  ],
+  "creation_date": "2024-12-28T01:20:15"
+},
+{
+  "_id": {
+    "$oid": "6842fa09043cdfdfaa6fd32b"
+  },
+  "product_id": "prod_00012",
+  "name": "Fundamental Context-Sensitive Paradigm",
+  "category_id": "cat_011",
+  "base_price": 245.91,
+  "current_stock": 0,
+  "is_active": true,
+  "price_history": [
+    {
+      "price": 214.67,
+      "date": "2024-12-14T06:03:41"
+    },
+    {
+      "price": 245.91,
+      "date": "2025-06-02T13:21:23"
+    }
+  ],
+  "creation_date": "2024-12-14T06:03:41"
+}
+]
